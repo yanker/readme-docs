@@ -2,6 +2,9 @@
 
 Convierte cualquier `README.md` en una web navegable con búsqueda, menú lateral y temas Light/Dark. Este proyecto está pensado para documentación rápida en repos públicos o privados sin necesidad de un generador complejo.
 
+## DEMO
+[readme-docs](https://github.com/yanker/readme-docs)
+
 ---
 
 ## Qué incluye
